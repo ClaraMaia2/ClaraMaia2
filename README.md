@@ -11,11 +11,11 @@
 </div>
 
 <!--- Linguagens aprendidas --->
- ### Main skills:
+### Main skills:
 <div style="display: inline_block">
     <img align="center" alt="Clara-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
     <img align="center" alt="Clara-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img align="center" alt="Clara-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+    <img align="center" alt="Clara-python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 </div>
 
 <!--- Linguagens estudando --->
@@ -28,7 +28,7 @@
 </div>
 
 
-<!--- Links com todas as redes sociais (Instagram, email e LinkedIN) --->
+<!--- Links com todas as redes sociais (Instagram, LinkedIn e Twitter) --->
 <div align="center"> 
   <br>
   <a href="https://www.instagram.com/clara.arajo.maia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -43,9 +43,9 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ClaraMaia2}/count.svg" /></p> 
   <br>
 
+  <!--- Snake game --->
   ![Snake animation](https://github.com/ClaraMaia2/ClaraMaia2/blob/output/github-contribution-grid-snake.svg)
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE6960&height=120&section=footer"/>
 
