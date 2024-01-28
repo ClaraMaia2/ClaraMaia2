@@ -10,7 +10,7 @@
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraMaia2&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-<!--- Linguagens aprendidas --->
+<!--- Aprendidas --->
 ### Main skills:
 <div style="display: inline_block">
     <img align="center" alt="Clara-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -18,13 +18,14 @@
     <img align="center" alt="Clara-python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 </div>
 
-<!--- Linguagens estudando --->
+<!--- Estudando --->
 ### Studying in this moment:
 <div style="display: inline_block"> 
     <img align="center" alt="Clara-dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
       <img align="center" alt="Clara-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
       <img align="center" alt="Clara-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
       <img align="center" alt="Clara-figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+      <img align="center" alt="Clara-flutter" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg"/>
 </div>
 
 
@@ -42,9 +43,6 @@
   <p align="center"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ClaraMaia2}/count.svg" /></p> 
   <br>
-
-  <!--- Snake game --->
-  ![Snake animation](https://github.com/ClaraMaia2/ClaraMaia2/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE6960&height=120&section=footer"/>
