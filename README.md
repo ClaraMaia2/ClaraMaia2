@@ -16,16 +16,18 @@
     <img align="center" alt="Clara-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
     <img align="center" alt="Clara-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="center" alt="Clara-python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+    <img align="center" alt="Clara-dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+    <img align="center" alt="Clara-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+    <img align="center" alt="Clara-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img align="center" alt="Clara-figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+    <img align="center" alt="Clara-flutter" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg"/>
 </div>
 
 <!--- Estudando --->
 ### Studying in this moment:
 <div style="display: inline_block"> 
-    <img align="center" alt="Clara-dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-      <img align="center" alt="Clara-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-      <img align="center" alt="Clara-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-      <img align="center" alt="Clara-figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-      <img align="center" alt="Clara-flutter" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg"/>
+    <img align="center" alt="Clara-rails" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rails/rails-original-wordmark.svg"/>
+    <img align="center" alt="Clara-ruby" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ruby/ruby-original.svg"/>
 </div>
 
 
