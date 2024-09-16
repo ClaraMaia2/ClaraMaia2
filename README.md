@@ -29,7 +29,9 @@
 ### Studying in this moment:
 <div style="display: inline_block"> 
     <img align="center" alt="Clara-react" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg"/>
+    <img align="center" alt="Clara-reactnavigation" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/reactnavigation/reactnavigation-original.svg"/>
     <img align="center" alt="Clara-javascript" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg"/>
+    <img align="center" alt="Clara-redux" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redux/redux-original.svg"/>
 </div>
 
 
