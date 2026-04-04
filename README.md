@@ -44,12 +44,12 @@
 </div>
 
 <!--- Contador de quantidade de visitantes no perfil --->
-<div align="centre">
+<!-- <div align="centre">
   <br>
   <p align="center"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ClaraMaia2}/count.svg" /></p> 
   <br>
-</div>
+</div> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE6960&height=120&section=footer"/>
 
