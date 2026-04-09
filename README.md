@@ -26,7 +26,7 @@
 </div>
 
 <!--- Estudando --->
-### Studying in this moment:
+### Studying at the moment:
 <div style="display: inline_block"> 
     <img align="center" alt="Clara-react" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg"/>
     <img align="center" alt="Clara-reactnavigation" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/reactnavigation/reactnavigation-original.svg"/>
